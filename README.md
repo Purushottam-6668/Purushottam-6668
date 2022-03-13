@@ -4,7 +4,7 @@
 
 <h2 align="center"><i>Checkout--> <a href="https://www.instagram.com/Puruuushottam_6668">Here ✨</a></i></h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurushottam-6668&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23100606&title_bg=%23FF00F1&icon=googlelens.svg&icon_color=%23E7E7E7&title=INSTAGRAM+&edge_flat=false"/></a>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Purushottam-6668&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Pυɾυʂԋσƚƚαɱ's+Github+Stats)](https://github.com/Purushottam-6668)
 

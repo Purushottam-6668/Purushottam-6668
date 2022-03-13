@@ -2,9 +2,9 @@
 
 <h1 align="center"><b><i>Myself - Pυɾυʂԋσƚƚαɱ || 𝙿𝚛𝚊𝚗𝚊𝚢😉</b></i></h1>
 
-<h2 align="center"><i>Checkout--> <a href="https://www.instagram.com/Puruuushottam_6668">Here ✨</a></i></h2>
+<h2 align="center"><i>Checkout--> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Finstagram.com%2FPurushottam-6668&count_bg=%23B9C638&title_bg=%23FF53E3&icon=googlelens.svg&icon_color=%23FFFFFF&title=Instagram+&edge_flat=false
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurushottam-6668%2Fhit-counter&count_bg=%23100606&title_bg=%23FF00F1&icon=googlelens.svg&icon_color=%23E7E7E7&title=INSTAGRAM+&edge_flat=false"/></a>
+
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Purushottam-6668&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Pυɾυʂԋσƚƚαɱ's+Github+Stats)](https://github.com/Purushottam-6668)
 

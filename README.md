@@ -2,7 +2,7 @@
 
 <h1 align="center"><b><i>I'm V₳₥₱łⱤɆ 😉</b></i></h1>
 
-<h2 align="center"><i>My Website <a href="instagram.com/Puruuushottam_6668">Here ✨</a></i></h2>
+<h2 align="center"><i>My Website <a href="https://www.instagram.com/Puruuushottam_6668">Here ✨</a></i></h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurushottam-6668&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -18,22 +18,23 @@
 
 # See You Later 🙃😉
 
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Medical Sciences]
+- 🔭  I’m currently working on [Medical Sciences](https://ipc.gov.in)
 
-- 🌱 I’m currently learning [Prepration Of Drugs]
+- 🌱 I’m currently learning [Prepration Of Drugs](https://ipc.gov.in)
 
-- 👯 I’m looking to collaborate on [ International Journals] 
+- 👯 I’m looking to collaborate on [...] 
 
 - 🤔 I’m looking for help with Your Love...!
 
 - 💬 Ask me about [ Syntax ]
 
-- 📫 How to reach me: [Instagram]https://instagram.com/Purushottam_6668)
+- 📫 How to reach me: [Instagram](https://instagram.com/Purushottam_6668)
 
 - 😄 Pronouns: [Pranay]
 
-- ⚡ Fun fact: .[Started An Alcohol Consumption]()
+- ⚡ Fun fact: .Started An Alcohol Consumption
 
 -->

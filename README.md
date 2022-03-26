@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .Started An Alcohol Consumption
 
 -->
-def reverse(string):
+`def reverse(Life):`
 
 `Function to reverse a Life...!`
 

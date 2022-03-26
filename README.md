@@ -39,6 +39,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .Started An Alcohol Consumption
 
 -->
+def reverse(string):
 
+`Function to reverse a Life...!`
+
+`Life`
+`Long Life = Nothing More Is Available?`
+`return Life Is Just Started At New Moment..!`
  
 
